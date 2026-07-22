@@ -1,0 +1,11 @@
+.card { background-color: #f4f4f4;
+        padding: 20px;
+        color: darkblue;}
+
+.card.featured { border: 3px solid black;}
+
+.description { color: red;}
+.description { color: green;}
+
+.btn.primary { background-color: white;}
+.btn.primary { background-color: purple;}
